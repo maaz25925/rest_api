@@ -32,7 +32,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/rest_api.git
+   git clone https://github.com/maaz25925/rest_api.git
    ```
 
 2. Navigate to project directory:
